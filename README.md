@@ -172,6 +172,11 @@ http://localhost:1234
 - 4️⃣ Executar aplicação
 streamlit run app/main.py
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![AsyncIO](https://img.shields.io/badge/Async-Enabled-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
          Considerações de Performance
 
 - Limite configurável de concorrência
@@ -190,4 +195,5 @@ streamlit run app/main.py
 ✔ Integração com IA local
 ✔ Geração automática de relatórios
 ✔ Projeto escalável
+
 
