@@ -35,6 +35,20 @@ Gera:
 - Projetado para processamento em lote com alta eficiência.
 
 
+         Interface da Aplicação
+
+<p align="center">
+  <img src="assets/dashboard_atualizada.png" width="800">
+</p>
+
+---
+
+         Arquitetura
+
+<p align="center">
+  <img src="assets/servidor.png" width="700">
+</p>
+
         Arquitetura do Sistema
 
 CSV de Entrada ↓
@@ -49,6 +63,10 @@ Cálculo de Score SEO ↓
 
 Dashboard + Geração de PDF
 
+        Relatório
+<p align="center">
+  <img src="assets/final.png" width="800">
+</p>
 
     Arquitetura Assíncrona
 
